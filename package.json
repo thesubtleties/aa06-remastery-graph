@@ -1,0 +1,13 @@
+{
+    "name": "remastery2",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+      "test": "test/*.mjs"
+    },
+    "devDependencies": {
+      "chai": "^5.1.1",
+      "mocha": "^10.4.0"
+    }
+  }
+  
